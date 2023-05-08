@@ -1,6 +1,6 @@
 package Task_7.Phonebook.Client;
 
-import HomeWorkTasks.OOP.Task5.Phonebook.UI.App;
+import Task_7.Phonebook.UI.App;
 
 public class Program {
 
