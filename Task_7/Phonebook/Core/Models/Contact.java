@@ -1,4 +1,4 @@
-package Task_7.Phonebook.Core;
+package Task_7.Phonebook.Core.Models;
 
 public class Contact  implements Comparable<Contact> {
     public String firstName;
