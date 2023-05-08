@@ -1,6 +1,6 @@
 package Task_7.Phonebook.Core.Infrastructure;
 
-import Task_7.Core.Models.Contact;
+import Task_7.Phonebook.Core.Models.Contact;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Task7.Calculator;
+package Task_7.Calculator;
 
 public class Complex {
     private final double real;
